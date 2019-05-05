@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang= "en-US">
+<head>
+    <meta charset="utf-8">
+<title>casamania gallery</title>
+    <link rel="stylesheet" type="text/css" href="gallery.css">
+    <link rel="icon" href="dbmsimg/logo.png" type="image/jpg" sizes="16x16logo.jpg">
+    <link href="https://fonts.googleapis.com/css?family=Acme|Alegreya|Dancing+Script|Kanit|Rye|Satisfy" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Lobster+Two|Metal+Mania|Permanent+Marker" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+</head>
+    <body>
+    <nav>
+    <div id="logo"><p class="logo-name">Casamania</p></div> 
+        <div>
+        <ul>
+        <li><a href="C:/Users/H.P/Desktop/final.html">HOME</a></li>
+        <li><a href="file:///C:/Users/H.P/Desktop/thePUB.html">THE PUB</a></li>
+        <li><a>MENU</a></li>
+        <li><a href="C:/Users/H.P/Desktop/projectgallary.html">GALLERY</a></li>
+        <li><a>EVENT</a></li>
+        <li><a>DINING</a></li>
+            <li><a>CONTACT</a></li>
+        </ul>
+        </div>
+    </nav>
+        <div id="major-part">
+        <div id="slide-show">
+             <button class="b-left" onclick="plusdrive(-1)">&#10094;</button>
+            <button class="b-right" onclick="plusdrive(+1)">&#10095;</button>
+            <img class="myslides" src="dbmsimg/g1%20(1).png"><img class="myslides" src="dbmsimg/g1%20(7).png"><img class="myslides" src="dbmsimg/g1%20(10).png"><img class="myslides" src="dbmsimg/gal1.png"><img class="myslides" src="dbmsimg/clk4.jpg"><img class="myslides" src="dbmsimg/f1.png"><img class="myslides" src="dbmsimg/g1%20(8).png"><img class="myslides" src="dbmsimg/f2.png"><img class="myslides" src="dbmsimg/clk8.jpg"><img class="myslides" src="dbmsimg/17.png"><img class="myslides" src="dbmsimg/g1%20(6).png"><img class="myslides" src="dbmsimg/g1%20(3).png"><img class="myslides" src="dbmsimg/6.png">
+<!--             <button class="b-right" onclick="plusdrive(+1)">&#10095;</button>-->
+            <script lang="JavaScript">
+            var slideIndex=1;
+                showDivs(slideIndex);
+                function plusdrive(n){showDivs(slideIndex+=n);}
+                function showDivs(n){
+                    var i;
+                    var x= document.getElementsByClassName("myslides");
+                    if(n>x.length){slideIndex=1}
+                    if(n<1){slideIndex=x.length};
+                    for(i=0;i<x.length;i++){x[i].style.display="none";}
+                    x[slideIndex-1].style.display="block";
+                }
+            </script>
+            </div>
+        </div>
+       <footer id="pagefooter">
+            <div id="contact" style="display: block;color: white;margin-left: 15px;height: 150px;width: 430px;"><p style="font-family: Helvatica;font-size: 25px;color: white;">Contact Us</p><br><p style="margin-top: -40px;width: 200px;">www.casamanaia.in<br>0172 301 2221<br>0172 302 2227</p></div>
+            <div id="address" style="display: block;color: white;width: 440px;text-align: center;"><p style="font-family: Helvatica;font-size: 25px;">Address(Visit Us)</p><br><p style="margin-top: -40px;width: 200px;margin-left: 100px;">221 B<br>Civil Lines , M.G. Road ,,<br>Chandigarh , Punjab<br>PIN: 160022</p></div>
+            <div id="follow" style="display: block;width: 430px;height: 150px;text-align: right;margin-right: 15px;"><p style="color:white; font-family: Helvatica;font-size: 25px;">Follow Us</p><br><a><img style="margin-top: -50px;margin-right: 10px;" src="webimages/fb.png"></a><a><img style="height: 50px;width: 50px;margin-top: -50px;" src="webimages/insta.png"></a><br><a><img src="webimages/twi.png"></a></div>
+        </footer> 
+    </body>
+</html>

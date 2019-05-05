@@ -1,0 +1,162 @@
+body
+{
+	padding:0 0px 0px 0;
+	margin:0;
+	font:15/1.5px,Arial,helvetica,sans-serif;             /*font-size,line-height,font-family*/ 
+}
+
+.container
+{
+	width:80%;
+	margin:auto;
+	overflow:hidden;  /* extra part of div will be hidden  */
+}
+
+header
+{
+	background:#35424b;                 /*background of header*/
+	color:#ffffff;                       /*background of text over header*/
+	padding-top:30px;
+	display:block;
+	min-height:70px;
+	border-bottom:#e8491d 3px solid;
+}
+
+header a
+{
+	color:#ffffff;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:16px;
+}
+
+.button1
+{
+	height:40px;
+	background:black;
+	border:none;
+	letter-spacing:2px;
+	font-family:helvetica;
+	padding-left:20px;
+	padding-right:20px;
+	color:white;  
+	float:left;
+}
+header ul
+{
+	margin:0;
+	padding:0;                        /*ul tag has default margin and padding*/
+}
+
+header li
+{
+	float:left;
+	display:inline;
+	padding:0 20px 0 20px;           /*top-right-bottom-left */
+}
+
+
+header nav
+{
+	float:right;
+	margin-top:10px:
+}
+
+header #branding
+{
+  float:left;
+  padding-top:0px;
+  margin-top:0px;
+  font-family: 'Rye';
+  font-family: 'Nosifer';
+  font-size:45px;
+      color: #D0F8FF;
+    text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+                 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+                 0 0 40px #A5F1FF;
+}
+
+/*showcase*/                              /* id never work with the section*/
+#view
+{
+	
+	min-height:400px;
+	background: url("showcase.jpg") no-repeat 0 -100px ;
+	text-align:center;
+	color:#ffffff;
+}
+
+#view h2                     /*h1 was not working since h1 is already having padding and margin which was not being reoved*/
+{
+	padding:0 0 0 0;
+	margin:0;
+	margin-top:120px;
+	font-size:20px;
+	font-family:'Tangerine', serif;
+    font-size: 148px;
+   /* text-shadow: 4px 4px 4px #aaa;*/
+}
+
+#artc
+{
+	float:left;
+	width:55%;
+	margin:20px;
+}
+
+#info
+{
+	float:right;
+	width:40%; 
+}
+
+
+
+#formbox
+{
+	height:500px;
+	width:450px;
+	margin-left:20px;
+	margin-top:50px;
+	opacity:0.6;
+	background-color:black;
+}
+
+.in
+{
+	height:35px;
+	width:390px;
+	margin-top:40px;
+	margin-left:30px;
+	border-radius:5px;
+}
+
+.inb
+{
+	height:35px;
+	width:390px;
+	margin-top:30px;
+	margin-left:30px;
+	background-color:green;
+	border:green;
+	border-radius:5px;
+}
+
+textarea  {
+    width: 85%;
+    height: 125px;
+   	margin-top:40px;
+	margin-left:30px;
+    border-radius: 5px;
+}
+
+#pagefooter
+{
+    background-color: black;
+    display: inline-flex;
+    padding-top: 1.5em;
+    overflow: hidden;
+    height: 250px;
+    width: 100%;
+   box-shadow: 5px 5px 5px grey; 
+}

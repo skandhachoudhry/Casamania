@@ -1,0 +1,66 @@
+<!doctype>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BOOKING-FORM</title>
+<link rel="stylesheet" href="frm.css">
+<link rel="icon" href="C:\Users\Kushwaha\Desktop\web programs\CASAMANIA\dbmsimg\logo.png" sizes="16x16" type="image/jpg">
+</head>
+<body>
+
+<div class="title">
+<h1>RESTAURANT BOOKING REQUEST</h1></div>
+<div class="container">
+<div class="formbox">
+<form action="db.php" method="post">
+	<p>Name(required)<img hspace="80px">Phone No.(required)</p>
+	<input class="in" type="text" name="t1" placeholder="Enter Your Name" required/>
+	<img hspace="30px">
+	<input class="in" type="text" name="n1" placeholder="Contact No."required/>
+    <br>
+	<p>Email<img hspace="125px">Party Size</p>
+	<input class="in" type="email" name="e1" placeholder="Enter Your Email" />
+	<img hspace="30px">
+	<select class="sel" name="select1" >
+    <option value="1">1</option>
+    <option value="2">2 </option>
+    <option value="3">3</option>
+    <option value="4">4 </option>
+    <option value="5">5</option>
+	<option value="6">6</option>
+    </select>
+	<br> 
+	<p>Package(optional)</p>
+	<select class="sel1" name="select1" >
+	<option value="Family">Normal</option>
+    <option value="Family">Family</option>
+    <option value="Romantic">Romantic </option>
+    <option value="celebration">Celebration</option>
+    <option value="Bussiness">Bussiness</option>
+	<br>
+	<p>Date(required)</p>
+	<input type="datetime" name="d1" required/>
+	<br>
+	<textarea  rows="10" cols="45" name="a1" placeholder="Let us know what we can do for you!!" ></textarea>
+	<input class="inb" type="submit" name="s1" value="Confirm Booking"> 
+	<img hspace="80px">
+	<input class="inb" type="submit" name="s2" value="GO BACK"> 
+	
+<?php
+$hostname = "localhost";
+$username = "root";
+$password = "";
+ //connection to the mysql
+$con = mysql_connect($hostname, $username, $password) ;
+if (!$con){ die('Could not connect: '. mysql_error());}
+//connection to the database
+$dbName="CASAMANIA";
+$db = mysql_select_db($dbName,$con);
+
+?>
+
+ 
+
+ 
+</body>
+</html>

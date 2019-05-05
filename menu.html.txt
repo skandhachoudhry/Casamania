@@ -1,0 +1,1874 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>menu</title>
+</head>
+<body>
+<table align="left" cellspacing="2" border="2">
+<tr>
+  
+  <th >
+    SOUPS
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+  <tr align="center">
+    <td>
+Choice of cream 
+  </td>
+  
+    
+    <td>
+140
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+    <option selected>zero</option>
+      <option > half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+Sweet corn
+  </td>
+  
+    
+    <td>
+150
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      <option> half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+Lung fung
+  </td>
+  
+    
+    <td>
+140
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      <option> half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+manchow
+  </td>
+  
+    
+    <td>
+140
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      <option> half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+      Hot n Sour
+  </td>
+  
+    
+    <td>
+140
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      <option> half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+Tomato
+  </td>
+  
+    
+    <td>
+120
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      <option> half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+chicken 
+  </td>
+  
+    
+    <td>
+180
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      <option> half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  
+ 
+
+  
+  </table>
+      <table align="left" cellspacing="2" border="2">
+<tr>
+  
+  <th >
+    SHAKES AND BEVERAGES
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+  <tr align="center">
+    <td>
+OREO SHAKE 
+  </td>
+  
+    
+    <td>
+240
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+    <option selected>zero</option>
+       
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+     
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+STRAWBERRY SHAKE
+  </td>
+  
+    
+    <td>
+200
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+     
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+       
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+      KIT KAT SHAKE
+  </td>
+  
+    
+    <td>
+240
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+      
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+CHOCO MOUSSE
+  </td>
+  
+    
+    <td>
+240
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+   
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+     
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+    RED VELVET SHAKE
+  </td>
+  
+    
+    <td>
+220
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+   
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    
+      </form>
+  </td>
+  </tr>
+    <tr align="center">
+    <td>
+   JUICES(seasonal)
+  </td>
+  
+    
+    <td>
+140
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+   
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    
+      </form>
+  </td>
+  </tr>
+ 
+      <table align="center" cellspacing="2" border="1">
+        
+        <tr>
+  
+  <th >
+    RAITA
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+      <tr align="center">
+    <td>
+Pineapple raita
+  </td>
+  
+    
+    <td>
+150
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+           <option selected>zero</option>
+
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+            
+      </form>
+  <tr align="center">
+    <td>
+MIX vegetable raita
+  </td>
+  
+    
+    <td>
+130
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+           <option selected>zero</option>
+
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+            
+      </form>
+  <tr align="center">
+    <td>
+Boondi raita
+  </td>
+  
+    
+    <td>
+120
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+           <option selected>zero</option>
+
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+            
+      </form>
+  <tr align="center">
+    <td>
+aloo raita
+  </td>
+  
+    
+    <td>
+120
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+           <option selected>zero</option>
+
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+            
+      </form>
+  <tr align="center">
+    <td>
+Plain curd
+  </td>
+  
+    
+    <td>
+100
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+           <option selected>zero</option>
+
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+            
+      </form>
+      </table>
+      <table align="right" cellspacing="2" border="1">
+<tr>
+  
+  <th >
+    BREAD  BASKET
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+  <tr align="center">
+    <td>
+Tandoori roti
+  </td>
+  
+    
+    <td>
+25
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+    <option selected>zero</option>
+     
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+Stuffed naan
+  </td>
+  
+    
+    <td>
+65
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+     
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+     
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+Butter naan
+  </td>
+  
+    
+    <td>
+50
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+              
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+    Plain naan  
+  </td>
+  
+    
+    <td>
+35
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+    Luccha parantha
+  </td>
+  
+    
+    <td>
+60
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        
+
+      <option> half</option> 
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+Garlic naan
+  </td>
+  
+    
+    <td>
+50
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+       
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+      Roomali roti
+  </td>
+  
+    
+    <td>
+18
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    <option> 6</option>    
+    <option> 7</option>    
+          <option> 8</option>    
+      </form>
+  
+ 
+
+  
+  </table>
+      <table align="center" cellspacing="2" border="1">
+<tr>
+  
+  <th >
+    SNACKS
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+  <tr align="center">
+    <td>
+CHILLI PANEER TIKKA
+  </td>
+  
+    
+    <td>
+100
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+    <option selected>zero</option>
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+      
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+HYDERABADI KABAB
+  </td>
+  
+    
+    <td>
+150
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+Spring rolls
+  </td>
+  
+    
+    <td>
+120
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+           
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+veg Burger
+  </td>
+  
+    
+    <td>
+80
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+   
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+      Soya chaap tikka
+  </td>
+  
+    
+    <td>
+140
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+   
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+       
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+      Dahi kabab
+  </td>
+  
+    
+    <td>
+120
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+     
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+      mushroom tikka
+  </td>
+  
+    
+    <td>
+80
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+        
+      </form>
+  
+ 
+
+  
+  </table>
+       <table align="center" cellspacing="2" border="1">
+<tr>
+  
+  <th >
+    SNACKS
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+  <tr align="center">
+    <td>
+SHAHI PANEER
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+    <option selected>zero</option>
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+         
+      
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+PANEER BUTTER MASALA
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+PANEER LABABDAR
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          
+           
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+      PALAK PANEER
+  </td>
+  
+    
+    <td>325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+      MALAI KOFTA
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+   
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+       
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+    MUSHROOM FREZI
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+     
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+      NAVRATAN KORMA
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+         
+        
+      </form>
+    <tr align="center">
+    <td>
+      KADHAI TANDOORI GOBHI
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          
+        
+      </form>
+  
+ 
+    <tr align="center">
+    <td>
+    KASHMIRI DUM ALOO
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+        
+      </form>
+  
+ 
+    <tr align="center">
+    <td>
+    MIX VEGETABLE
+  </td>
+  
+    
+    <td>
+250
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+        
+      </form>
+  
+ 
+    <tr align="center">
+    <td>
+      CHANA MASALA
+  </td>
+  
+    
+    <td>
+250
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+        
+     
+    <tr align="center">
+    <td>
+      DAL MAKHANI
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+        
+     
+    <tr align="center">
+    <td>
+      DAL ARHAR TADKA
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+         
+    <tr align="center">
+    <td>
+     PANCHRATAN DAL
+  </td>
+  
+    
+    <td>
+250
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+         
+    <tr align="center">
+    <td>
+     DRY DAL
+  </td>
+  
+    
+    <td>
+250
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+        
+      </form>
+  
+ 
+  
+ 
+
+  
+  </table>
+       <table align="left" cellspacing="2" border="1">
+         <tr><th colspan="3">
+           CHINESE</th>
+         </tr>
+<tr>
+  
+  <th >
+    SNACKS
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+  <tr align="center">
+    <td>
+FRIED VEG SIZZLER
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+    <option selected>zero</option>
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          
+         
+      
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+VEG MANCHURIAN DRY
+  </td>
+  
+    
+    <td>
+295
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+CRISPY VEG SALT N PEPPER
+  </td>
+  
+    
+    <td>
+255
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          
+           
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+      GOLDEN FRIED BABY CORN
+  </td>
+  
+    
+    <td>310
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+    CHILLI ANEER DRY
+  </td>
+  
+    
+    <td>
+310
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+   
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+       
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+    CHEESE CORN ROLL
+  </td>
+  
+    
+    <td>
+300
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+     
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+    
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+  HONEY CHILLI POTATO
+  </td>
+  
+    
+    <td>
+325
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+         
+        
+      </form>
+    <tr align="center">
+    <td>
+      CRISPY VEGETABLE
+  </td>
+  
+    
+    <td>
+225
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          
+        
+      </form>
+   <tr><th colspan="3">
+           CHOUPSEY</th>
+         </tr>
+ 
+    <tr align="center">
+    <td>
+   VEG CHOUPSEY
+  </td>
+  
+    
+    <td>
+290
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+         
+        
+      </form>
+  
+ 
+    <tr align="center">
+    <td>
+    AMERICAN CHOUPSEY
+  </td>
+  
+    
+    <td>
+350
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+        
+      </form>
+   <tr><th colspan="3">
+           NOODLE</th>
+         </tr>
+ 
+    <tr align="center">
+    <td>
+     VEG NOODLE
+  </td>
+  
+    
+    <td>
+250
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+        
+     
+    <tr align="center">
+    <td>
+      VEG HAKKA NOODLE
+  </td>
+  
+    
+    <td>
+225
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+        
+     
+    <tr align="center">
+    <td>
+   VEG SINGAPORE NOODLE </td>
+  
+    
+    <td>
+225
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+         
+    <tr align="center">
+    <td>
+     VEG FRIED RICE
+  </td>
+  
+    
+    <td>
+250
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+         
+    <tr align="center">
+    <td>
+     GINGER AND GARLIC FRIED RICE
+  </td>
+  
+    
+    <td>
+250
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option>
+        
+      </form>
+  
+ 
+  
+ 
+
+  
+  </table>
+       </table>
+       <table align="left" cellspacing="2" border="1">
+         <tr><th colspan="3">
+           DESSERTS</th>
+         </tr>
+<tr>
+  
+  <th >
+    ITEM
+  </TH>
+  <th >
+    PRICE
+  </TH><th >
+    QUANTITY
+  </TH>
+  </tr>
+  <tr align="center">
+    <td>
+EXOTIC ice cream
+  </td>
+  
+    
+    <td>
+70
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+    <option selected>zero</option>
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          
+         
+      
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+ASSORTED icecream
+  </td>
+  
+    
+    <td>
+85
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+    
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+TUTTI FRUITY
+  </td>
+  
+    
+    <td>
+80
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+      
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          
+           
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+      CHOCO CASAMANIA
+  </td>
+  
+    
+    <td>
+      120
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+    
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+      </form>
+  </td>
+  </tr>
+   <tr align="center">
+    <td>
+   HOT GULAB JAMUN
+  </td>
+  
+    
+    <td>
+85
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+   
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+          <option> 4</option> 
+          <option> 5</option> 
+       
+      </form>
+  </td>
+  </tr>
+ 
+  <tr align="center">
+    <td>
+    MOONG DAL HALWA
+  </td>
+  
+    
+    <td>
+90
+  </td>
+  
+    
+    <td>
+<form >
+  <select multiple="multiple">
+        <option selected>zero</option>
+
+     
+          <option> 1</option>    
+          <option> 2</option>              
+          <option>3</option>    
+        
+    
+      </form>
+ 
+      
+</body>
+</html>
+</body>
+</html>

@@ -1,0 +1,95 @@
+body
+{
+	margin:0;
+	padding:0;
+	background:url(c12.png) no-repeat 0 ;
+	background-size:cover;
+	opacity:.8;
+	font-family:sans-serif;
+}
+
+.title
+{
+	text-align:center;
+	padding:50px 0 20px;
+}
+
+.title h1
+{
+	margin:0;
+	padding:0;
+	color:#262626;
+	font-size:36px;
+}
+
+.container
+{
+	width:50%;
+	height:500px;
+	background:#fff;
+	margin:0 auto;
+	border:2px solid #fff;
+	box-shadow:0 15px 40px rgba(0,0,0,.5);
+	padding-bottom:100px;
+	margin-bottom:100px;
+	opacity:.8
+}
+
+.formbox
+{
+	width:100%;
+	padding:40px 40px;
+	box-sizing:border-box;
+	height:500px;
+	background:#fff;
+}
+
+.formbox p
+{
+	color:#a6af13;
+	margin:0;
+	padding-top:10px;
+}
+
+.in
+{
+	height:35px;
+	width:230px;
+	margin-top:10px;
+	margin-left:0px;
+	border-radius:5px;
+}
+
+
+.inb
+{
+	height:35px;
+	width:150px;
+	margin-top:20px;
+	margin-left:0px;
+	border-radius:5px;
+}
+
+.sel
+{
+	width:50px;
+	height:30px;
+	margin-top:10px;
+	border-radius:5px;
+}
+
+.sel1
+{
+	width:150px;
+	height:30px;
+	margin-top:10px;
+	border-radius:5px;
+}
+
+textarea  {
+    width: 85%;
+    height: 125px;
+   	margin-top:25px;
+	margin-left:0px;
+    border-radius: 5px;
+}

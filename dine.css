@@ -1,0 +1,319 @@
+body
+{
+    margin:0;
+}
+
+nav
+{
+    display:flex;
+    position:fixed;
+    height:100px;
+    width:100%;
+    background-color:black;
+    top: 0px;
+}
+
+#logo
+{
+    margin:0px 0px 1px 50px;
+    height:100px;
+    width:500px;
+    background-image: url("dbmsimg/logo.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+.logo-name
+{
+    text-align: left;
+    font-family: cursive;
+    visibility: visible;
+    width:95px; 
+    height: 0px;
+    margin: 76px 0px 0px 0px;
+    color: ghostwhite;
+    background-color: black;
+}
+
+nav ul
+{
+    display:flex;
+    height:100px;
+    width:900px;
+    margin-left:2px;
+    margin-top:40px;
+}
+
+nav ul li
+{
+    margin-left:40px;
+    display:inline;
+}
+
+nav ul li a
+{
+    color:white;
+    font-family: cursive;
+    text-decoration:none;
+}
+	
+#view
+{
+	min-height:520px;
+	background: url("r123.jpg") no-repeat 0 -100px ;
+	text-align:center;
+	color:#ffffff;
+	padding-top:100px;
+	background-size:cover;
+}
+
+.h2
+{
+	padding:0 0 0 0;
+	margin-top:80px;
+	font-size:90px;
+	letter-spacing:1px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	color: gold;
+    font-family: 'Dancing Script', cursive;
+}
+.h1
+{
+	padding:0 0 0 0;
+	font-size:100px;
+	color:white;
+	letter-spacing:1.5px;
+	
+}
+
+#view p
+{
+	font-size:20px;
+	color:black;
+}
+
+.container
+{
+	width:80%;
+	margin:auto;
+	overflow:hidden;  /* extra part of div will be hidden  */
+}
+
+.our_story
+{
+    display: flex;
+    height: 450px;
+    width: 100%; 
+/*    margin-top: 0px;*/
+/*    margin-top: 500px;*/
+}
+.writeup{
+    height: 400px;
+    width: 1200px;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.writeup h1{
+    color: goldenrod;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 60px;
+    margin-bottom: -40px;
+    height: 70px;
+}
+.writeup h2{
+    font-family:'Acme', sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px;
+    word-spacing: 0.3em;
+    
+}
+.flower{
+    color: goldenrod;
+    font-size: 30px;
+    margin-top: -30px;
+}
+.writeup p{
+    font-size: 18px;
+    color: black;
+    font-family: 'Acme', sans-serif;
+}
+.photos-collection{
+    margin-top:100px;
+    height:400px;
+    width:50%;
+    background-color: azure;
+    margin-right: -40px;
+}
+.picture-box{
+    display:inline-flex;
+    margin:10px 0px 10px 10px;
+    height:200px;
+    width:280px;
+    background-color: black;
+    box-shadow: 5px 5px 5px #888888;/*hexcode*/
+}
+#pic1{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("family.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pic2{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("family1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pic3{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("fr.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pic4{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("food-slide.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#pic5{
+    float:left;
+	
+	display:flex;
+    height:300px;
+    width:540px;
+    background-image: url("r1.jfif");
+	margin-left:20px;
+	
+    background-size: cover;
+    background-repeat: no-repeat;
+	box-shadow: 5px 5px 5px 5px #888888;/*hexcode*/
+}
+
+
+.menu99
+{
+    display: flex;
+    height: 450px;
+    width: 100%;
+}
+
+.photos-collection1 {
+    margin-top:100px;
+    height:400px;
+    width:600px;
+    background-color: azure;
+    margin-left:50px;
+    margin-right: -80px;
+}
+.picture-box1{
+    display:inline-flex;
+    margin:10px 0px 10px 10px;
+    height:121px;
+    width:280px;
+    background-color: black;
+ 
+}
+
+#pic6{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("party.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pic7{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("cris.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pic8{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("birthday.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pic9{
+    display:flex;
+    height:200px;
+    width:280px;
+    background-image: url("c1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.writeup1{
+    height: 400px;
+    width: 1200px;
+    margin-right: 50px;
+    margin-top: -30px;
+}
+.writeup1 h1{
+    color: goldenrod;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 60px;
+    margin-bottom: -40px;
+    height: 70px;
+}
+.writeup1 h2{
+    font-family:'Acme', sans-serif;
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 0px;
+    word-spacing: 0.3em;
+    
+}
+.writeup1 p{
+    font-size: 22px;
+    color: black;
+    font-family: 'Acme', sans-serif;
+    margin-top: -20px;
+}
+
+.button1
+{
+	height:40px;
+	background:black;
+	border:none;
+	letter-spacing:2px;
+	font-family:helvetica;
+	padding-left:20px;
+	padding-right:20px;
+	color:white;  
+	float:left;
+}
+
+#pagefooter
+{
+    background-color: black;
+    display: inline-flex;
+    padding-top: 1.5em;
+    overflow: hidden;
+    height: 250px;
+    width: 100%;
+   box-shadow: 5px 5px 5px grey; 
+}
